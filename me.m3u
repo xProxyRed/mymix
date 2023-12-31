@@ -1,226 +1,223 @@
 #EXTM3U
-#EXTINF:-1,(1) Das Erste HD
-
-rtp://@232.0.20.35:10000?sources=87.141.215.251
-#EXTINF:-1,(1) Das Erste SD
-
-rtp://@232.0.10.35:10000?sources=87.141.215.251
-#EXTINF:-1,(2) ZDF HD
-
-rtp://@232.0.20.234:10000?sources=87.141.215.251
-#EXTINF:-1,(2) ZDF SD
-
-rtp://@232.0.10.234:10000?sources=87.141.215.251
-#EXTINF:-1,(3) RTL SD
-
-rtp://@232.0.10.135:10000?sources=87.141.215.251
-#EXTINF:-1,(4) Sat.1 SD
-
-rtp://@232.0.10.146:10000?sources=87.141.215.251
-#EXTINF:-1,(5) ProSieben SD
-
-rtp://@232.0.10.120:10000?sources=87.141.215.251
-#EXTINF:-1,(6) VOX SD
-
-rtp://@232.0.10.221:10000?sources=87.141.215.251
-#EXTINF:-1,(7) kabel eins SD
-
-rtp://@232.0.10.82:10000?sources=87.141.215.251
-#EXTINF:-1,(8) RTLZWEI SD
-
-rtp://@232.0.10.140:10000?sources=87.141.215.251
-#EXTINF:-1,(9) Super RTL SD
-
-rtp://@232.0.10.201:10000?sources=87.141.215.251
-#EXTINF:-1,(10) KiKA HD
-
-rtp://@232.0.20.85:10000?sources=87.141.215.251
-#EXTINF:-1,(10) KiKA SD
-
-rtp://@232.0.10.85:10000?sources=87.141.215.251
-#EXTINF:-1,(12) 3sat HD
-
-rtp://@232.0.20.2:10000?sources=87.141.215.251
-#EXTINF:-1,(12) 3sat SD
-
-rtp://@232.0.10.2:10000?sources=87.141.215.251
-#EXTINF:-1,(14) n-tv SD
-
-rtp://@232.0.10.111:10000?sources=87.141.215.251
-#EXTINF:-1,(15) PHOENIX HD
-
-rtp://@232.0.20.116:10000?sources=87.141.215.251
-#EXTINF:-1,(15) PHOENIX SD
-
-rtp://@232.0.10.116:10000?sources=87.141.215.251
-#EXTINF:-1,(17) zdf_neo HD
-
-rtp://@232.0.20.236:10000?sources=87.141.215.251
-#EXTINF:-1,(17) zdf_neo SD
-
-rtp://@232.0.10.236:10000?sources=87.141.215.251
-#EXTINF:-1,(21) BR Süd HD
-
-rtp://@232.0.20.26:10000?sources=87.141.215.251
-#EXTINF:-1,(21) BR Süd SD
-
-rtp://@232.0.10.26:10000?sources=87.141.215.251
-#EXTINF:-1,(25) hr HD
-
-rtp://@232.0.20.71:10000?sources=87.141.215.251
-#EXTINF:-1,(25) hr SD
-
-rtp://@232.0.10.71:10000?sources=87.141.215.251
-#EXTINF:-1,(27) MDR Sachsen HD
-
-rtp://@232.0.20.93:10000?sources=87.141.215.251
-#EXTINF:-1,(27) MDR Sachsen SD
-
-rtp://@232.0.10.93:10000?sources=87.141.215.251
-#EXTINF:-1,(29) NDR HD
-
-rtp://@232.0.20.104:10000?sources=87.141.215.251
-#EXTINF:-1,(29) NDR SD
-
-rtp://@232.0.10.104:10000?sources=87.141.215.251
-#EXTINF:-1,(30) Radio Bremen TV SD
-
-rtp://@232.0.10.125:10000?sources=87.141.215.251
-#EXTINF:-1,(30) Radio Bremen TV HD
-
-rtp://@232.0.20.125:10000?sources=87.141.215.251
-#EXTINF:-1,(31) rbb Berlin HD
-
-rtp://@232.0.20.129:10000?sources=87.141.215.251
-#EXTINF:-1,(31) rbb Berlin SD
-
-rtp://@232.0.10.129:10000?sources=87.141.215.251
-#EXTINF:-1,(36) SR HD
-
-rtp://@232.0.20.200:10000?sources=87.141.215.251
-#EXTINF:-1,(36) SR SD
-
-rtp://@232.0.10.200:10000?sources=87.141.215.251
-#EXTINF:-1,(37) SWR BW HD
-
-rtp://@232.0.20.202:10000?sources=87.141.215.251
-#EXTINF:-1,(37) SWR BW SD
-
-rtp://@232.0.10.202:10000?sources=87.141.215.251
-#EXTINF:-1,(38) SWR RP HD
-
-rtp://@232.0.20.203:10000?sources=87.141.215.251
-#EXTINF:-1,(38) SWR RP SD
-
-rtp://@232.0.10.203:10000?sources=87.141.215.251
-#EXTINF:-1,(39) WDR HD
-
-rtp://@232.0.20.222:10000?sources=87.141.215.251
-#EXTINF:-1,(39) WDR SD
-
-rtp://@232.0.10.222:10000?sources=87.141.215.251
-#EXTINF:-1,(55) ARTE HD
-
-rtp://@232.0.20.10:10000?sources=87.141.215.251
-#EXTINF:-1,(55) ARTE SD
-
-rtp://@232.0.10.10:10000?sources=87.141.215.251
-#EXTINF:-1,(56) ONE HD
-
-rtp://@232.0.20.49:10000?sources=87.141.215.251
-#EXTINF:-1,(56) ONE SD
-
-rtp://@232.0.10.49:10000?sources=87.141.215.251
-#EXTINF:-1,(69) ProSieben MAXX SD
-
-rtp://@232.0.10.122:10000?sources=87.141.215.251
-#EXTINF:-1,(70) RTLNITRO SD
-
-rtp://@232.0.10.143:10000?sources=87.141.215.251
-#EXTINF:-1,(71) RTLplus SD
-
-rtp://@232.0.10.240:10000?sources=87.141.215.251
-#EXTINF:-1,(73) Sat.1 Gold SD
-
-rtp://@232.0.10.149:10000?sources=87.141.215.251
-#EXTINF:-1,(75) sixx SD
-
-rtp://@232.0.10.157:10000?sources=87.141.215.251
-#EXTINF:-1,(77) TOGGO plus SD
-
-rtp://@232.0.11.7:10000?sources=87.141.215.251
-#EXTINF:-1,(78) VOXup SD
-
-rtp://@232.0.10.239:10000?sources=87.141.215.251
-#EXTINF:-1,(80) ARD-alpha SD
-
-rtp://@232.0.10.9:10000?sources=87.141.215.251
-#EXTINF:-1,(80) ARD-alpha HD
-
-rtp://@232.0.20.9:10000?sources=87.141.215.251
-#EXTINF:-1,(89) kabel eins Doku SD
-
-rtp://@232.0.11.2:10000?sources=87.141.215.251
-#EXTINF:-1,(91) tagesschau24 HD
-
-rtp://@232.0.20.205:10000?sources=87.141.215.251
-#EXTINF:-1,(93) ZDFinfo HD
-
-rtp://@232.0.20.237:10000?sources=87.141.215.251
-#EXTINF:-1,(93) ZDFinfo SD
-
-rtp://@232.0.10.237:10000?sources=87.141.215.251
-#EXTINF:-1,(427) BR Nord SD
-
-rtp://@232.0.10.25:10000?sources=87.141.215.251
-#EXTINF:-1,(457) rbb Brandenburg SD
-
-rtp://@232.0.10.130:10000?sources=87.141.215.251
-#EXTINF:-1,(466) NDR Hamburg SD
-
-rtp://@232.0.10.105:10000?sources=87.141.215.251
-#EXTINF:-1,(467) NDR Schleswig-Holstein SD
-
-rtp://@232.0.10.107:10000?sources=87.141.215.251
-#EXTINF:-1,(476) NDR Mecklenburg-Vorpommern SD
-
-rtp://@232.0.10.106:10000?sources=87.141.215.251
-#EXTINF:-1,(493) RTL NRW SD
-
-rtp://@232.0.10.142:10000?sources=87.141.215.251
-#EXTINF:-1,(496) WDR Aachen SD
-
-rtp://@232.0.10.223:10000?sources=87.141.215.251
-#EXTINF:-1,(497) WDR Bielefeld SD
-
-rtp://@232.0.10.224:10000?sources=87.141.215.251
-#EXTINF:-1,(498) WDR Bonn SD
-
-rtp://@232.0.10.225:10000?sources=87.141.215.251
-#EXTINF:-1,(499) WDR Dortmund SD
-
-rtp://@232.0.10.226:10000?sources=87.141.215.251
-#EXTINF:-1,(500) WDR Duisburg SD
-
-rtp://@232.0.10.227:10000?sources=87.141.215.251
-#EXTINF:-1,(501) WDR Düsseldorf SD
-
-rtp://@232.0.10.228:10000?sources=87.141.215.251
-#EXTINF:-1,(502) WDR Essen SD
-
-rtp://@232.0.10.229:10000?sources=87.141.215.251
-#EXTINF:-1,(503) WDR Münster SD
-
-rtp://@232.0.10.230:10000?sources=87.141.215.251
-#EXTINF:-1,(504) WDR Siegen SD
-
-rtp://@232.0.10.231:10000?sources=87.141.215.251
-#EXTINF:-1,(505) WDR Wuppertal SD
-
-rtp://@232.0.10.232:10000?sources=87.141.215.251
-#EXTINF:-1,(564) MDR Sachsen-Anhalt SD
-
-rtp://@232.0.10.94:10000?sources=87.141.215.251
-#EXTINF:-1,(587) MDR Thüringen SD
-
-rtp://@232.0.10.95:10000?sources=87.141.215.251
+#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="ARD.de" group-title="Vollprogramm;HDVariante" radio="false" tvg-logo="daserstehd.png",Das Erste HD
+rtp://87.141.215.251@232.0.20.35:10000
+#EXTINF:-1 tvg-name="Das Erste" tvg-id="ARD.de" group-title="Vollprogramm;SDVariante" radio="false" tvg-logo="daserste.png",Das Erste
+rtp://87.141.215.251@232.0.10.35:10000
+#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Vollprogramm;HDVariante" radio="false" tvg-logo="zdfhd.png",ZDF HD
+rtp://87.141.215.251@232.0.20.234:10000
+#EXTINF:-1 tvg-name="ZDF" tvg-id="ZDF.de" group-title="Vollprogramm;SDVariante" radio="false" tvg-logo="zdf.png",ZDF
+rtp://87.141.215.251@232.0.10.234:10000
+#EXTINF:-1 tvg-name="SWR RP HD" tvg-id="SWR-rp.de" group-title="Regional;HDVariante" radio="false" tvg-logo="swrhd.png",SWR Rheinland-Pfalz HD
+rtp://87.141.215.251@232.0.20.203:10000
+#EXTINF:-1 tvg-name="SWR RP" tvg-id="SWR-rp.de" group-title="Regional;SDVariante" radio="false" tvg-logo="swr.png",SWR Rheinland-Pfalz
+rtp://87.141.215.251@232.0.10.203:10000
+#EXTINF:-1 tvg-name="RTL" tvg-id="RTL.de" group-title="Vollprogramm" radio="false" tvg-logo="rtl.png",RTL
+rtp://87.141.215.251@232.0.10.135:10000
+#EXTINF:-1 tvg-name="SAT.1" tvg-id="Sat1.de" group-title="Vollprogramm" radio="false" tvg-logo="sat1.png",SAT.1
+rtp://87.141.215.251@232.0.10.146:10000
+#EXTINF:-1 tvg-name="VOX" tvg-id="Vox.de" group-title="Vollprogramm" radio="false" tvg-logo="vox.png",VOX
+rtp://87.141.215.251@232.0.10.221:10000
+#EXTINF:-1 tvg-name="ProSieben" tvg-id="Pro7.de" group-title="Vollprogramm" radio="false" tvg-logo="prosieben.png",ProSieben
+rtp://87.141.215.251@232.0.10.120:10000
+#EXTINF:-1 tvg-name="ARTE HD" tvg-id="ARTE.de" group-title="Vollprogramm;HDVariante" radio="false" tvg-logo="artehd.png",ARTE HD
+rtp://87.141.215.251@232.0.20.10:10000
+#EXTINF:-1 tvg-name="ARTE" tvg-id="ARTE.de" group-title="Vollprogramm;SDVariante" radio="false" tvg-logo="arte.png",ARTE
+rtp://87.141.215.251@232.0.10.10:10000
+#EXTINF:-1 tvg-name="kabel eins" tvg-id="Kabel.de" group-title="Vollprogramm" radio="false" tvg-logo="kabeleins.png",kabel eins
+rtp://87.141.215.251@232.0.10.82:10000
+#EXTINF:-1 tvg-name="RTL II" tvg-id="RTL2.de" group-title="Vollprogramm" radio="false" tvg-logo="rtl2.png",RTL II
+rtp://87.141.215.251@232.0.10.140:10000
+#EXTINF:-1 tvg-name="3sat HD" tvg-id="3sat.de" group-title="Vollprogramm;HDVariante" radio="false" tvg-logo="3sathd.png",3sat HD
+rtp://87.141.215.251@232.0.20.2:10000
+#EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" group-title="Vollprogramm;SDVariante" radio="false" tvg-logo="3sat.png",3sat
+rtp://87.141.215.251@232.0.10.2:10000
+#EXTINF:-1 tvg-name="BR Süd HD" tvg-id="BR.de" group-title="Regional;HDVariante" radio="false" tvg-logo="brhd.png",BR Fernsehen Süd HD
+rtp://87.141.215.251@232.0.20.26:10000
+#EXTINF:-1 tvg-name="BR Süd" tvg-id="BR.de" group-title="Regional;SDVariante" radio="false" tvg-logo="br.png",BR Fernsehen Süd
+rtp://87.141.215.251@232.0.10.26:10000
+#EXTINF:-1 tvg-name="MDR HD" tvg-id="MDRSachsen.de" group-title="Regional;HDVariante" radio="false" tvg-logo="mdrhd.png",MDR HD
+rtp://87.141.215.251@232.0.20.93:10000
+#EXTINF:-1 tvg-name="MDR Sachsen" tvg-id="MDRSachsen.de" group-title="Regional;SDVariante" radio="false" tvg-logo="mdr.png",MDR
+rtp://87.141.215.251@232.0.10.93:10000
+#EXTINF:-1 tvg-name="rbb Berlin HD" tvg-id="rbbBerlin.de" group-title="Regional;HDVariante" radio="false" tvg-logo="rbbhd.png",rbb Berlin HD
+rtp://87.141.215.251@232.0.20.129:10000
+#EXTINF:-1 tvg-name="rbb Berlin" tvg-id="rbbBerlin.de" group-title="Regional;SDVariante" radio="false" tvg-logo="rbb.png",rbb Berlin
+rtp://87.141.215.251@232.0.10.129:10000
+#EXTINF:-1 tvg-name="NDR HD" tvg-id="ndr.de" group-title="Regional;HDVariante" radio="false" tvg-logo="ndrhd.png",NDR HD
+rtp://87.141.215.251@232.0.20.104:10000
+#EXTINF:-1 tvg-name="NDR" tvg-id="ndr.de" group-title="Regional;SDVariante" radio="false" tvg-logo="ndr.png",NDR
+rtp://87.141.215.251@232.0.10.104:10000
+#EXTINF:-1 tvg-name="WDR HD" tvg-id="WDR.de" group-title="Regional;HDVariante" radio="false" tvg-logo="wdrhd.png",WDR HD
+rtp://87.141.215.251@232.0.20.222:10000
+#EXTINF:-1 tvg-name="WDR" tvg-id="WDR.de" group-title="Regional;SDVariante" radio="false" tvg-logo="wdr.png",WDR
+rtp://87.141.215.251@232.0.10.222:10000
+#EXTINF:-1 tvg-name="hr-fernsehen HD" tvg-id="HR.de" group-title="Regional;HDVariante" radio="false" tvg-logo="hrhd.png",hr-fernsehen HD
+rtp://87.141.215.251@232.0.20.71:10000
+#EXTINF:-1 tvg-name="hr-fernsehen" tvg-id="HR.de" group-title="Regional;SDVariante" radio="false" tvg-logo="hr.png",hr-fernsehen
+rtp://87.141.215.251@232.0.10.71:10000
+#EXTINF:-1 tvg-name="SR Fernsehen HD" tvg-id="SRFernsehen.de" group-title="Regional;HDVariante" radio="false" tvg-logo="srhd.png",SR Fernsehen HD
+rtp://87.141.215.251@232.0.20.200:10000
+#EXTINF:-1 tvg-name="SR Fernsehen" tvg-id="SRFernsehen.de" group-title="Regional;SDVariante" radio="false" tvg-logo="sr.png",SR Fernsehen
+rtp://87.141.215.251@232.0.10.200:10000
+#EXTINF:-1 tvg-name="SWR BW HD" tvg-id="SWR.de" group-title="Regional;HDVariante" radio="false" tvg-logo="swr.png",SWR BW HD
+rtp://87.141.215.251@232.0.20.202:10000
+#EXTINF:-1 tvg-name="SWR BW" tvg-id="SWR.de" group-title="Regional;SDVariante" radio="false" tvg-logo="swr.png",SWR BW
+rtp://87.141.215.251@232.0.10.202:10000
+#EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Spartenprogramm;HDVariante" radio="false" tvg-logo="onehd.png",one HD
+rtp://87.141.215.251@232.0.20.49:10000
+#EXTINF:-1 tvg-name="one" tvg-id="One.de" group-title="Spartenprogramm;Filme / Serien;SDVariante" radio="false" tvg-logo="one.png",one
+rtp://87.141.215.251@232.0.10.49:10000
+#EXTINF:-1 tvg-name="ZDFneo HD" tvg-id="ZDFneo.de" group-title="Spartenprogramm;Dokumentationen;HDVariante" radio="false" tvg-logo="zdfneohd.png",ZDFneo HD
+rtp://87.141.215.251@232.0.20.236:10000
+#EXTINF:-1 tvg-name="ZDFneo" tvg-id="ZDFneo.de" group-title="Spartenprogramm;SDVariante" radio="false" tvg-logo="zdfneo.png",ZDFneo
+rtp://87.141.215.251@232.0.10.236:10000
+#EXTINF:-1 tvg-name="SAT.1 Gold" tvg-id="Sat1Gold.de" group-title="Spartenprogramm;Filme / Serien" radio="false" tvg-logo="sat1gold.png",SAT.1 Gold
+rtp://87.141.215.251@232.0.10.149:10000
+#EXTINF:-1 tvg-name="NITRO" tvg-id="RTLNitro.de" group-title="Spartenprogramm;Filme / Serien" radio="false" tvg-logo="nitro.png",NITRO
+rtp://87.141.215.251@232.0.10.143:10000
+#EXTINF:-1 tvg-name="ProSieben MAXX" tvg-id="ProSiebenMaxx.de" group-title="Spartenprogramm;Dokumentationen" radio="false" tvg-logo="prosiebenmaxx.png",ProSieben MAXX
+rtp://87.141.215.251@232.0.10.122:10000
+#EXTINF:-1 tvg-name="sixx" tvg-id="Sixx.de" group-title="Spartenprogramm;Filme / Serien" radio="false" tvg-logo="sixx.png",sixx
+rtp://87.141.215.251@232.0.10.157:10000
+#EXTINF:-1 tvg-name="VOXup" tvg-id="VOXup.de" group-title="Vollprogramm" radio="false" tvg-logo="voxup.png",VOXup
+rtp://87.141.215.251@232.0.10.239:10000
+#EXTINF:-1 tvg-name="KiKA HD" tvg-id="Kika.de" group-title="Kinder / Jugend;HDVariante" radio="false" tvg-logo="kikahd.png",KiKA HD
+rtp://87.141.215.251@232.0.20.85:10000
+#EXTINF:-1 tvg-name="KiKA" tvg-id="Kika.de" group-title="Kinder / Jugend;SDVariante" radio="false" tvg-logo="kika.png",KiKA
+rtp://87.141.215.251@232.0.10.85:10000
+#EXTINF:-1 tvg-name="ZDFinfo HD" tvg-id="ZDFinfo.de" group-title="Spartenprogramm;Dokumentationen;HDVariante" radio="false" tvg-logo="zdfinfohd.png",ZDFinfo HD
+rtp://87.141.215.251@232.0.20.237:10000
+#EXTINF:-1 tvg-name="ZDFinfo" tvg-id="ZDFinfo.de" group-title="Spartenprogramm;SDVariante" radio="false" tvg-logo="zdfinfo.png",ZDFinfo
+rtp://87.141.215.251@232.0.10.237:10000
+#EXTINF:-1 tvg-name="TOGGO plus" tvg-id="TOGGOplus.de" group-title="Kinder / Jugend" radio="false" tvg-logo="toggoplus.png",TOGGO plus
+rtp://87.141.215.251@232.0.11.7:10000
+#EXTINF:-1 tvg-name="Super RTL" tvg-id="SuperRTL.de" group-title="Kinder / Jugend" radio="false" tvg-logo="superrtl.png",Super RTL
+rtp://87.141.215.251@232.0.10.201:10000
+#EXTINF:-1 tvg-name="kabel eins Doku" tvg-id="KabelEinsDoku.de" group-title="Dokumentationen" radio="false" tvg-logo="kabeleinsdoku.png",kabel eins Doku
+rtp://87.141.215.251@232.0.11.2:10000
+#EXTINF:-1 tvg-name="ARD-alpha HD" tvg-id="ARD-alpha.de" group-title="Spartenprogramm" radio="false" tvg-logo="ardalphahd.png",ARD-alpha HD
+rtp://87.141.215.251@232.0.20.9:10000
+#EXTINF:-1 tvg-name="n-tv" tvg-id="ntv.de" group-title="Nachrichten;Dokumentationen" radio="false" tvg-logo="ntv.png",n-tv
+rtp://87.141.215.251@232.0.10.111:10000
+#EXTINF:-1 tvg-name="phoenix HD" tvg-id="phoenix.de" group-title="Nachrichten;Dokumentationen;HDVariante" radio="false" tvg-logo="phoenixhd.png",phoenix HD
+rtp://87.141.215.251@232.0.20.116:10000
+#EXTINF:-1 tvg-name="phoenix" tvg-id="phoenix.de" group-title="Nachrichten;SDVariante" radio="false" tvg-logo="phoenix.png",phoenix
+rtp://87.141.215.251@232.0.10.116:10000
+#EXTINF:-1 tvg-name="tagesschau24 HD" tvg-id="tagesschau24.de" group-title="Nachrichten;HDVariante" radio="false" tvg-logo="tagesschau24hd.png",tagesschau24 HD
+rtp://87.141.215.251@232.0.20.205:10000
+#EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" group-title="Nachrichten;SDVariante" radio="false" tvg-logo="tagesschau24.png",tagesschau24
+rtp://87.141.215.251@232.0.10.205:10000
+#EXTINF:-1 tvg-name="OK:TV Mainz" tvg-id="oktvmainz.de" group-title="Lokal" radio="false" tvg-logo="oktvmainz.png",OK:TV Mainz
+rtp://87.141.215.251@232.0.11.39:10000
+#EXTINF:-1 tvg-name="Radio Bremen TV" tvg-id="ndr.de" group-title="Regional" radio="false" tvg-logo="ndr.png",Radio Bremen TV
+rtp://87.141.215.251@232.0.10.125:10000
+#EXTINF:-1 tvg-name="Radio Bremen TV HD" tvg-id="ndr.de" group-title="Regional" radio="false" tvg-logo="ndr.png",Radio Bremen TV HD
+rtp://87.141.215.251@232.0.20.125:10000
+#EXTINF:-1 tvg-name="BR Nord" tvg-id="BR.de" group-title="Regional" radio="false" tvg-logo="br.png",BR Nord
+rtp://87.141.215.251@232.0.10.25:10000
+#EXTINF:-1 tvg-name="rbb Brandenburg" tvg-id="ndr.de" group-title="Regional" radio="false" tvg-logo="ndr.png",rbb Brandenburg
+rtp://87.141.215.251@232.0.10.130:10000
+#EXTINF:-1 tvg-name="NDR Hamburg" tvg-id="ndr.de" group-title="Regional" radio="false" tvg-logo="ndr.png",NDR Hamburg
+rtp://87.141.215.251@232.0.10.105:10000
+#EXTINF:-1 tvg-name="NDR Schleswig-Holstein" tvg-id="ndr.de" group-title="Regional" radio="false" tvg-logo="ndr.png",NDR Schleswig-Holstein
+rtp://87.141.215.251@232.0.10.107:10000
+#EXTINF:-1 tvg-name="NDR Mecklenburg-Vorpommern" tvg-id="ndr.de" group-title="Regional" radio="false" tvg-logo="ndr.png",NDR Mecklenburg-Vorpommern
+rtp://87.141.215.251@232.0.10.106:10000
+#EXTINF:-1 tvg-name="RTL NRW" tvg-id="RTL.de" group-title="Regional" radio="false" tvg-logo="rtl.png",RTL NRW
+rtp://87.141.215.251@232.0.10.142:10000
+#EXTINF:-1 tvg-name="WDR Aachen" tvg-id="WDR.de" group-title="Regional" radio="false" tvg-logo="wdr.png",WDR Aachen
+rtp://87.141.215.251@232.0.10.223:10000
+#EXTINF:-1 tvg-name="WDR Bielefeld" tvg-id="WDR.de" group-title="Regional" radio="false" tvg-logo="wdr.png",WDR Bielefeld
+rtp://87.141.215.251@232.0.10.224:10000
+#EXTINF:-1 tvg-name="WDR Bonn" tvg-id="WDR.de" group-title="Regional" radio="false" tvg-logo="wdr.png",WDR Bonn
+rtp://87.141.215.251@232.0.10.225:10000
+#EXTINF:-1 tvg-name="WDR Dortmund" tvg-id="WDR.de" group-title="Regional" radio="false" tvg-logo="wdr.png",WDR Dortmund
+rtp://87.141.215.251@232.0.10.226:10000
+#EXTINF:-1 tvg-name="WDR Duisburg" tvg-id="WDR.de" group-title="Regional" radio="false" tvg-logo="wdr.png",WDR Duisburg
+rtp://87.141.215.251@232.0.10.227:10000
+#EXTINF:-1 tvg-name="WDR Düsseldorf" tvg-id="WDR.de" group-title="Regional" radio="false" tvg-logo="wdr.png",WDR Düsseldorf
+rtp://87.141.215.251@232.0.10.228:10000
+#EXTINF:-1 tvg-name="WDR Essen" tvg-id="WDR.de" group-title="Regional" radio="false" tvg-logo="wdr.png",WDR Essen
+rtp://87.141.215.251@232.0.10.229:10000
+#EXTINF:-1 tvg-name="WDR Münster" tvg-id="WDR.de" group-title="Regional" radio="false" tvg-logo="wdr.png",WDR Münster
+rtp://87.141.215.251@232.0.10.230:10000
+#EXTINF:-1 tvg-name="WDR Siegen" tvg-id="WDR.de" group-title="Regional" radio="false" tvg-logo="wdr.png",WDR Siegen
+rtp://87.141.215.251@232.0.10.231:10000
+#EXTINF:-1 tvg-name="WDR Wuppertal" tvg-id="WDR.de" group-title="Regional" radio="false" tvg-logo="wdr.png",WDR Wuppertal
+rtp://87.141.215.251@232.0.10.232:10000
+#EXTINF:-1 tvg-name="RTLup",RTLup
+rtp://87.141.215.251@232.0.10.240:10000
+#EXTINF:-1 tvg-name="Baden TV",Baden TV
+rtp://87.141.215.251@232.0.11.35:10000
+#EXTINF:-1 tvg-name="Baden TV Süd",Baden TV Süd
+rtp://87.141.215.251@232.0.11.50:10000
+#EXTINF:-1 tvg-name="L-TV",L-TV
+rtp://87.141.215.251@232.0.11.8:10000
+#EXTINF:-1 tvg-name="Regio TV",Regio TV
+rtp://87.141.215.251@232.0.11.10:10000
+#EXTINF:-1 tvg-name="a.tv",a.tv
+rtp://87.141.215.251@232.0.10.4:10000
+#EXTINF:-1 tvg-name="allgäu.tv",allgäu.tv
+rtp://87.141.215.251@232.0.10.6:10000
+#EXTINF:-1 tvg-name="NIEDERBAYERN TV - DEG",NIEDERBAYERN TV - DEG
+rtp://87.141.215.251@232.0.10.47:10000
+#EXTINF:-1 tvg-name="Franken Fernsehen",Franken Fernsehen
+rtp://87.141.215.251@232.0.10.64:10000
+#EXTINF:-1 tvg-name="tv.ingolstadt",tv.ingolstadt
+rtp://87.141.215.251@232.0.10.75:10000
+#EXTINF:-1 tvg-name="NIEDERBAYERN TV - LA",NIEDERBAYERN TV - LA
+rtp://87.141.215.251@232.0.10.76:10000
+#EXTINF:-1 tvg-name="münchen.tv",münchen.tv
+rtp://87.141.215.251@232.0.10.100:10000
+#EXTINF:-1 tvg-name="Oberpfalz TV",Oberpfalz TV
+rtp://87.141.215.251@232.0.10.113:10000
+#EXTINF:-1 tvg-name="RFO",RFO
+rtp://87.141.215.251@232.0.10.132:10000
+#EXTINF:-1 tvg-name="SAT.1 Bayern",SAT.1 Bayern
+rtp://87.141.215.251@232.0.10.147:10000
+#EXTINF:-1 tvg-name="NIEDERBAYERN TV - PA",NIEDERBAYERN TV - PA
+rtp://87.141.215.251@232.0.10.213:10000
+#EXTINF:-1 tvg-name="TV Oberfranken",TV Oberfranken
+rtp://87.141.215.251@232.0.10.215:10000
+#EXTINF:-1 tvg-name="TV Mainfranken",TV Mainfranken
+rtp://87.141.215.251@232.0.10.218:10000
+#EXTINF:-1 tvg-name="TVA Ostbayern",TVA Ostbayern
+rtp://87.141.215.251@232.0.10.219:10000
+#EXTINF:-1 tvg-name="ALEX Berlin",ALEX Berlin
+rtp://87.141.215.251@232.0.10.197:10000
+#EXTINF:-1 tvg-name="RTL HB NDS",RTL HB NDS
+rtp://87.141.215.251@232.0.10.137:10000
+#EXTINF:-1 tvg-name="SAT.1 NDS Bremen",SAT.1 NDS Bremen
+rtp://87.141.215.251@232.0.10.152:10000
+#EXTINF:-1 tvg-name="RTL HH SH",RTL HH SH
+rtp://87.141.215.251@232.0.10.139:10000
+#EXTINF:-1 tvg-name="SAT.1 HH SH",SAT.1 HH SH
+rtp://87.141.215.251@232.0.10.151:10000
+#EXTINF:-1 tvg-name="Rhein-Main TV",Rhein-Main TV
+rtp://87.141.215.251@232.0.11.37:10000
+#EXTINF:-1 tvg-name="RTL Hessen",RTL Hessen
+rtp://87.141.215.251@232.0.10.138:10000
+#EXTINF:-1 tvg-name="SAT.1 NRW",SAT.1 NRW
+rtp://87.141.215.251@232.0.10.153:10000
+#EXTINF:-1 tvg-name="Studio 47",Studio 47
+rtp://87.141.215.251@232.0.11.36:10000
+#EXTINF:-1 tvg-name="OK4",OK4
+rtp://87.141.215.251@232.0.11.41:10000
+#EXTINF:-1 tvg-name="OK54 Trier",OK54 Trier
+rtp://87.141.215.251@232.0.11.31:10000
+#EXTINF:-1 tvg-name="OK Weinstraße",OK Weinstraße
+rtp://87.141.215.251@232.0.11.40:10000
+#EXTINF:-1 tvg-name="OK-TV Ludwigshafen",OK-TV Ludwigshafen
+rtp://87.141.215.251@232.0.11.32:10000
+#EXTINF:-1 tvg-name="SAT.1 RhlPf Hessen",SAT.1 RhlPf Hessen
+rtp://87.141.215.251@232.0.10.154:10000
+#EXTINF:-1 tvg-name="Chemnitz Fernsehen",Chemnitz Fernsehen
+rtp://87.141.215.251@232.0.11.33:10000
+#EXTINF:-1 tvg-name="Dresden Fernsehen",Dresden Fernsehen
+rtp://87.141.215.251@232.0.11.34:10000
+#EXTINF:-1 tvg-name="Leipzig Fernsehen",Leipzig Fernsehen
+rtp://87.141.215.251@232.0.11.42:10000
+#EXTINF:-1 tvg-name="MDR-Fernsehen Sachsen-Anhalt",MDR-Fernsehen Sachsen-Anhalt
+rtp://87.141.215.251@232.0.10.94:10000
+#EXTINF:-1 tvg-name="MDR-Fernsehen Thüringen",MDR-Fernsehen Thüringen
+rtp://87.141.215.251@232.0.10.95:10000
