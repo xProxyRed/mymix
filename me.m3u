@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="ARD.de" group-title="Vollprogramm;HDVariante" radio="false" tvg-logo="daserstehd.png",Das Erste HD
-rtp://87.141.215.251@232.0.20.35:10000
+#EXTINF:-1 tvg-chno="1" tvg-name="Das Erste HD" tvg-id="ARD.de" group-title="Vollprogramm|HDVariante" radio="false" tvg-logo="daserstehd.png",Das Erste HD
+rtp://@239.35.10.1:10000
 #EXTINF:-1 tvg-name="Das Erste" tvg-id="ARD.de" group-title="Vollprogramm;SDVariante" radio="false" tvg-logo="daserste.png",Das Erste
 rtp://87.141.215.251@232.0.10.35:10000
 #EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Vollprogramm;HDVariante" radio="false" tvg-logo="zdfhd.png",ZDF HD
