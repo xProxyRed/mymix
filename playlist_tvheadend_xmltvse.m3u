@@ -1,0 +1,227 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-name="Das Erste HD" tvg-id="hd.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/3711d16d0e3570276ebba175620385b5f4ff18f4.png",Das Erste HD
+rtp://87.141.215.251@232.0.20.35:10000
+#EXTINF:-1 tvg-chno="1" tvg-name="Das Erste SD" tvg-id="daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/3711d16d0e3570276ebba175620385b5f4ff18f4.png",Das Erste SD
+rtp://87.141.215.251@232.0.10.35:10000
+#EXTINF:-1 tvg-chno="2" tvg-name="ZDF HD" tvg-id="hd.zdf.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/35d71e6d09f3551cb4053da8487b3028cf9339cd.png",ZDF HD
+rtp://87.141.215.251@232.0.20.234:10000
+#EXTINF:-1 tvg-chno="2" tvg-name="ZDF SD" tvg-id="zdf.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/35d71e6d09f3551cb4053da8487b3028cf9339cd.png",ZDF SD
+rtp://87.141.215.251@232.0.10.234:10000
+#EXTINF:-1 tvg-chno="3" tvg-name="RTL SD" tvg-id="rtl.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/3f21af88cf184a45ff4c54be37053ddd678e2456.png",RTL SD
+rtp://87.141.215.251@232.0.10.135:10000
+#EXTINF:-1 tvg-chno="4" tvg-name="SAT.1 SD" tvg-id="sat1.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/efd5a2c8992cd87d3fcc83b5b2399d12971bf89f.png",SAT.1 SD
+rtp://87.141.215.251@232.0.10.146:10000
+#EXTINF:-1 tvg-chno="5" tvg-name="ProSieben SD" tvg-id="prosieben.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/a7f56de9d6b8af8708bda4a48349ab6a3f713ecd.png",ProSieben SD
+rtp://87.141.215.251@232.0.10.120:10000
+#EXTINF:-1 tvg-chno="6" tvg-name="VOX SD" tvg-id="vox.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/0e5b4d41d518a068a0bef830d64f848b84ac39d1.png",VOX SD
+rtp://87.141.215.251@232.0.10.221:10000
+#EXTINF:-1 tvg-chno="7" tvg-name="Kabel Eins SD" tvg-id="kabel1.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/e92cc62717350cd0378f1191c21a3512362c65a1.png",Kabel Eins SD
+rtp://87.141.215.251@232.0.10.82:10000
+#EXTINF:-1 tvg-chno="8" tvg-name="RTLZWEI SD" tvg-id="rtl2.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/c2f437c77a06daffbcaa14f5caed1b301abda6b7.png",RTLZWEI SD
+rtp://87.141.215.251@232.0.10.140:10000
+#EXTINF:-1 tvg-chno="9" tvg-name="Super RTL SD" tvg-id="super.rtl.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/d83d20be89d5f6899d8885b944b109928f7a3171.png",Super RTL SD
+rtp://87.141.215.251@232.0.10.201:10000
+#EXTINF:-1 tvg-chno="10" tvg-name="KiKA HD" tvg-id="kikahd.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/7d9a501ddc07382fcfdbb0c0797916ba4e78cacd.png",KiKA HD
+rtp://87.141.215.251@232.0.20.85:10000
+#EXTINF:-1 tvg-chno="10" tvg-name="KiKA SD" tvg-id="kika.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/7d9a501ddc07382fcfdbb0c0797916ba4e78cacd.png",KiKA SD
+rtp://87.141.215.251@232.0.10.85:10000
+#EXTINF:-1 tvg-chno="12" tvg-name="3sat HD" tvg-id="hd.3sat.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/f0fc63107fddc5c72d70a64f90f9672710e3a3d9.png",3sat HD
+rtp://87.141.215.251@232.0.20.2:10000
+#EXTINF:-1 tvg-chno="12" tvg-name="3sat SD" tvg-id="3sat.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/f0fc63107fddc5c72d70a64f90f9672710e3a3d9.png",3sat SD
+rtp://87.141.215.251@232.0.10.2:10000
+#EXTINF:-1 tvg-chno="14" tvg-name="n-tv SD" tvg-id="n-tv.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/1c3073dd69376d57149afdb1791c2576724000f2.png",n-tv SD
+rtp://87.141.215.251@232.0.10.111:10000
+#EXTINF:-1 tvg-chno="15" tvg-name="phoenix HD" tvg-id="phoenixhd.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/0630170ba6401342025bf2ca1b1ed337e653bed5.png",phoenix HD
+rtp://87.141.215.251@232.0.20.116:10000
+#EXTINF:-1 tvg-chno="15" tvg-name="phoenix SD" tvg-id="phoenix.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/0630170ba6401342025bf2ca1b1ed337e653bed5.png",phoenix SD
+rtp://87.141.215.251@232.0.10.116:10000
+#EXTINF:-1 tvg-chno="17" tvg-name="ZDFneo HD" tvg-id="neohd.zdf.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/9f4bcfe2464370144428eeac56b55f1cfb061109.png",ZDFneo HD
+rtp://87.141.215.251@232.0.20.236:10000
+#EXTINF:-1 tvg-chno="17" tvg-name="ZDFneo SD" tvg-id="neo.zdf.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/9f4bcfe2464370144428eeac56b55f1cfb061109.png",ZDFneo SD
+rtp://87.141.215.251@232.0.10.236:10000
+#EXTINF:-1 tvg-chno="21" tvg-name="BR Fernsehen Süd HD" tvg-id="bfs.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/40d2ab4ade690ec7e4d965e586a62ca937ee091c.png",BR Fernsehen Süd HD
+rtp://87.141.215.251@232.0.20.26:10000
+#EXTINF:-1 tvg-chno="21" tvg-name="BR Fernsehen Süd SD" tvg-id="bfs.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/40d2ab4ade690ec7e4d965e586a62ca937ee091c.png",BR Fernsehen Süd SD
+rtp://87.141.215.251@232.0.10.26:10000
+#EXTINF:-1 tvg-chno="25" tvg-name="hr-fernsehen HD" tvg-id="hrhd.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/b11ecb6905afbf9f82d9cd8624c242013a78824e.png",hr-fernsehen HD
+rtp://87.141.215.251@232.0.20.71:10000
+#EXTINF:-1 tvg-chno="25" tvg-name="hr-fernsehen SD" tvg-id="hr.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/b11ecb6905afbf9f82d9cd8624c242013a78824e.png",hr-fernsehen SD
+rtp://87.141.215.251@232.0.10.71:10000
+#EXTINF:-1 tvg-chno="27" tvg-name="MDR-Fernsehen Sachsen HD" tvg-id="mdrhd.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/8e11c0abde6c90a68507070c73b443401a24fcff.png",MDR-Fernsehen Sachsen HD
+rtp://87.141.215.251@232.0.20.93:10000
+#EXTINF:-1 tvg-chno="27" tvg-name="MDR-Fernsehen Sachsen SD" tvg-id="sachsen.mdr.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/8e11c0abde6c90a68507070c73b443401a24fcff.png",MDR-Fernsehen Sachsen SD
+rtp://87.141.215.251@232.0.10.93:10000
+#EXTINF:-1 tvg-chno="29" tvg-name="NDR Fernsehen Niedersachsen HD" tvg-id="ndrhd.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/d72e120a384a97f269eb891ad135fb4d115decbb.png",NDR Fernsehen Niedersachsen HD
+rtp://87.141.215.251@232.0.20.104:10000
+#EXTINF:-1 tvg-chno="29" tvg-name="NDR Fernsehen Niedersachsen SD" tvg-id="nds.ndr.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/d72e120a384a97f269eb891ad135fb4d115decbb.png",NDR Fernsehen Niedersachsen SD
+rtp://87.141.215.251@232.0.10.104:10000
+#EXTINF:-1 tvg-chno="30" tvg-name="Radio Bremen TV HD" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/cd648267d785ddb46756676b9d0b5ee806a60a7d.png",Radio Bremen TV HD
+rtp://87.141.215.251@232.0.20.125:10000
+#EXTINF:-1 tvg-chno="30" tvg-name="Radio Bremen TV SD" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/cd648267d785ddb46756676b9d0b5ee806a60a7d.png",Radio Bremen TV SD
+rtp://87.141.215.251@232.0.10.125:10000
+#EXTINF:-1 tvg-chno="31" tvg-name="rbb fernsehen Berlin HD" tvg-id="rbbhd.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/3c5a2a45fa454d43b49eb1a696cafd0a4eeb1c86.png",rbb fernsehen Berlin HD
+rtp://87.141.215.251@232.0.20.129:10000
+#EXTINF:-1 tvg-chno="31" tvg-name="rbb fernsehen Berlin SD" tvg-id="berl.rbb-online.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/3c5a2a45fa454d43b49eb1a696cafd0a4eeb1c86.png",rbb fernsehen Berlin SD
+rtp://87.141.215.251@232.0.10.129:10000
+#EXTINF:-1 tvg-chno="36" tvg-name="SR Fernsehen HD" tvg-id="sr.swr.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/784cfb3e89c660ecf9f02bae301f40f875996af9.png",SR Fernsehen HD
+rtp://87.141.215.251@232.0.20.200:10000
+#EXTINF:-1 tvg-chno="36" tvg-name="SR Fernsehen SD" tvg-id="sr.swr.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/784cfb3e89c660ecf9f02bae301f40f875996af9.png",SR Fernsehen SD
+rtp://87.141.215.251@232.0.10.200:10000
+#EXTINF:-1 tvg-chno="37" tvg-name="SWR Fernsehen BW HD" tvg-id="bw.swr.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/033802069c0c3086585d215e0592501669f15f1c.png",SWR Fernsehen BW HD
+rtp://87.141.215.251@232.0.20.202:10000
+#EXTINF:-1 tvg-chno="37" tvg-name="SWR Fernsehen BW SD" tvg-id="bw.swr.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/033802069c0c3086585d215e0592501669f15f1c.png",SWR Fernsehen BW SD
+rtp://87.141.215.251@232.0.10.202:10000
+#EXTINF:-1 tvg-chno="38" tvg-name="SWR Fernsehen RP HD" tvg-id="rp.swr.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/033802069c0c3086585d215e0592501669f15f1c.png",SWR Fernsehen RP HD
+rtp://87.141.215.251@232.0.20.203:10000
+#EXTINF:-1 tvg-chno="38" tvg-name="SWR Fernsehen RP SD" tvg-id="rp.swr.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/033802069c0c3086585d215e0592501669f15f1c.png",SWR Fernsehen RP SD
+rtp://87.141.215.251@232.0.10.203:10000
+#EXTINF:-1 tvg-chno="39" tvg-name="WDR Fernsehen Köln HD" tvg-id="wdrhd.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/8784546120200060bc84357fcafd0994d648ee40.png",WDR Fernsehen Köln HD
+rtp://87.141.215.251@232.0.20.222:10000
+#EXTINF:-1 tvg-chno="39" tvg-name="WDR Fernsehen Köln SD" tvg-id="wdr.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/8784546120200060bc84357fcafd0994d648ee40.png",WDR Fernsehen Köln SD
+rtp://87.141.215.251@232.0.10.222:10000
+#EXTINF:-1 tvg-chno="55" tvg-name="ARTE HD" tvg-id="hd.arte.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/a94bb4917f279b02cb739e788c18f38a009f95a0.png",ARTE HD
+rtp://87.141.215.251@232.0.20.10:10000
+#EXTINF:-1 tvg-chno="55" tvg-name="ARTE SD" tvg-id="arte.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/a94bb4917f279b02cb739e788c18f38a009f95a0.png",ARTE SD
+rtp://87.141.215.251@232.0.10.10:10000
+#EXTINF:-1 tvg-chno="56" tvg-name="ONE HD" tvg-id="einsfestival.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/70b3ed315768d8799f8577aad1003e4b2758b197.png",ONE HD
+rtp://87.141.215.251@232.0.20.49:10000
+#EXTINF:-1 tvg-chno="56" tvg-name="ONE SD" tvg-id="einsfestival.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/70b3ed315768d8799f8577aad1003e4b2758b197.png",ONE SD
+rtp://87.141.215.251@232.0.10.49:10000
+#EXTINF:-1 tvg-chno="69" tvg-name="ProSieben MAXX SD" tvg-id="maxx.prosieben.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/8bbd8b6505244eadf79acc39552459c44c052ffa.png",ProSieben MAXX SD
+rtp://87.141.215.251@232.0.10.122:10000
+#EXTINF:-1 tvg-chno="70" tvg-name="NITRO SD" tvg-id="nitro.rtl.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/3e55a412683a498ae7e19077ea81b564bb1b271b.png",NITRO SD
+rtp://87.141.215.251@232.0.10.143:10000
+#EXTINF:-1 tvg-chno="71" tvg-name="RTLup SD" tvg-id="rtlplus.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/f0eab07df247d9f64761c2d9f6e12d244d5ed0b5.png",RTLup SD
+rtp://87.141.215.251@232.0.10.240:10000
+#EXTINF:-1 tvg-chno="73" tvg-name="SAT.1 GOLD SD" tvg-id="gold.sat1.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/c4df738dfcdc4307911328c1368b717428f234d8.png",SAT.1 GOLD SD
+rtp://87.141.215.251@232.0.10.149:10000
+#EXTINF:-1 tvg-chno="75" tvg-name="sixx SD" tvg-id="sixx.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/2dc9daa2cdf850169e75d472bd42362f60a0cd7f.png",sixx SD
+rtp://87.141.215.251@232.0.10.157:10000
+#EXTINF:-1 tvg-chno="77" tvg-name="TOGGO plus SD" tvg-id="plus.toggo.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/35d704a6beeecc53be277ba5e9342ddca6df5e0a.png",TOGGO plus SD
+rtp://87.141.215.251@232.0.11.7:10000
+#EXTINF:-1 tvg-chno="78" tvg-name="VOXup SD" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/7475b5f5fce6df60756901f94904c42d2675c6d9.png",VOXup SD
+rtp://87.141.215.251@232.0.10.239:10000
+#EXTINF:-1 tvg-chno="80" tvg-name="ARD-alpha HD" tvg-id="br-alpha.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/4f1286373cd3362649d2e4ae1692ab8a360bf773.png",ARD-alpha HD
+rtp://87.141.215.251@232.0.20.9:10000
+#EXTINF:-1 tvg-chno="81" tvg-name="ZDFinfo HD" tvg-id="infokanal.zdf.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/60641d1e04421f17dd4369382a389b0d7599b736.png",ZDFinfo HD
+rtp://87.141.215.251@232.0.20.237:10000
+#EXTINF:-1 tvg-chno="81" tvg-name="ZDFinfo SD" tvg-id="infokanal.zdf.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/60641d1e04421f17dd4369382a389b0d7599b736.png",ZDFinfo SD
+rtp://87.141.215.251@232.0.10.237:10000
+#EXTINF:-1 tvg-chno="89" tvg-name="Kabel Eins Doku SD" tvg-id="doku.kabel1.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/ca3279d86270655d49eb50a361e1dcb4564bf39e.png",Kabel Eins Doku SD
+rtp://87.141.215.251@232.0.11.2:10000
+#EXTINF:-1 tvg-chno="92" tvg-name="tagesschau24 HD" tvg-id="einsextra.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/2d0ef79c908ad450db7ddc28eaf7076a02e162af.png",tagesschau24 HD
+rtp://87.141.215.251@232.0.20.205:10000
+#EXTINF:-1 tvg-chno="92" tvg-name="tagesschau24 SD" tvg-id="einsextra.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/2d0ef79c908ad450db7ddc28eaf7076a02e162af.png",tagesschau24 SD
+rtp://87.141.215.251@232.0.10.205:10000
+#EXTINF:-1 tvg-chno="400" tvg-name="Baden TV SD" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/6b344a2cb60a4ab0c6262c5c8242c830d904971b.png",Baden TV SD
+rtp://87.141.215.251@232.0.11.35:10000
+#EXTINF:-1 tvg-chno="401" tvg-name="Baden TV Süd SD" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/35e2e1b57ba6a5f1ef6237c9a5e588e78b937284.png",Baden TV Süd SD
+rtp://87.141.215.251@232.0.11.50:10000
+#EXTINF:-1 tvg-chno="402" tvg-name="L-TV SD" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/5d93b1337647d544546ec58ae65966c782da081f.png",L-TV SD
+rtp://87.141.215.251@232.0.11.8:10000
+#EXTINF:-1 tvg-chno="403" tvg-name="Regio TV SD" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/180dccef4e255e11739783c60d0288cfb9a212c7.png",Regio TV SD
+rtp://87.141.215.251@232.0.11.10:10000
+#EXTINF:-1 tvg-chno="406" tvg-name="RTL Rhein-Neckar SD" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/2ea855c25865578dcb4e07c95a941e0c8eacd419.png",RTL Rhein-Neckar SD
+rtp://87.141.215.251@232.0.10.48:10000
+#EXTINF:-1 tvg-chno="425" tvg-name="a.tv SD" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/ecd02c711e2a96d79702ef779035c9b03ecb5811.png",a.tv SD
+rtp://87.141.215.251@232.0.10.4:10000
+#EXTINF:-1 tvg-chno="426" tvg-name="allgäu.tv SD" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/d37488ac6d2572b3cda8b5abc35f2ef632f46d8d.png",allgäu.tv SD
+rtp://87.141.215.251@232.0.10.6:10000
+#EXTINF:-1 tvg-chno="427" tvg-name="BR Fernsehen Nord SD" tvg-id="nord.bfs.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/40d2ab4ade690ec7e4d965e586a62ca937ee091c.png",BR Fernsehen Nord SD
+rtp://87.141.215.251@232.0.10.25:10000
+#EXTINF:-1 tvg-chno="428" tvg-name="NIEDERBAYERN TV Deggendorf - Straubing SD" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/54473a78213a3e6d3c105a071cda873d9e90253e.png",NIEDERBAYERN TV Deggendorf - Straubing SD
+rtp://87.141.215.251@232.0.10.47:10000
+#EXTINF:-1 tvg-chno="429" tvg-name="Franken Fernsehen SD" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/4da0e291ad477a84f868781751e89e3491c1f9b2.png",Franken Fernsehen SD
+rtp://87.141.215.251@232.0.10.64:10000
+#EXTINF:-1 tvg-chno="430" tvg-name="tv.ingolstadt SD" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/7336910781a7700f8778e51765c090ec17698c57.png",tv.ingolstadt SD
+rtp://87.141.215.251@232.0.10.75:10000
+#EXTINF:-1 tvg-chno="431" tvg-name="NIEDERBAYERN TV Landshut SD" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/54473a78213a3e6d3c105a071cda873d9e90253e.png",NIEDERBAYERN TV Landshut SD
+rtp://87.141.215.251@232.0.10.76:10000
+#EXTINF:-1 tvg-chno="433" tvg-name="münchen.tv SD" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/0c7f41025f6eb921088338aaca24116787652f0c.png",münchen.tv SD
+rtp://87.141.215.251@232.0.10.100:10000
+#EXTINF:-1 tvg-chno="434" tvg-name="Oberpfalz TV SD" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/7811d290fdadfbcaff34a4286d04ce08646ce231.png",Oberpfalz TV SD
+rtp://87.141.215.251@232.0.10.113:10000
+#EXTINF:-1 tvg-chno="435" tvg-name="RFO SD" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/098bc21bca807e35fc390c731a05fdef04384272.png",RFO SD
+rtp://87.141.215.251@232.0.10.132:10000
+#EXTINF:-1 tvg-chno="436" tvg-name="RTL Bayern SD" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/2ea855c25865578dcb4e07c95a941e0c8eacd419.png",RTL Bayern SD
+rtp://87.141.215.251@232.0.10.39:10000
+#EXTINF:-1 tvg-chno="437" tvg-name="SAT.1 Bayern SD" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/2ba4637e3624ed8c4ca4ae18c4bbe6900b2443b0.png",SAT.1 Bayern SD
+rtp://87.141.215.251@232.0.10.147:10000
+#EXTINF:-1 tvg-chno="438" tvg-name="NIEDERBAYERN TV Passau SD" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/54473a78213a3e6d3c105a071cda873d9e90253e.png",NIEDERBAYERN TV Passau SD
+rtp://87.141.215.251@232.0.10.213:10000
+#EXTINF:-1 tvg-chno="439" tvg-name="TV Oberfranken SD" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/e8b0f0a9705be7a5bb89e421970c102c4f409f6f.png",TV Oberfranken SD
+rtp://87.141.215.251@232.0.10.215:10000
+#EXTINF:-1 tvg-chno="440" tvg-name="TV Mainfranken SD" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/483a801e97300962a1a48e2a5c0b4eb6bf017b4a.png",TV Mainfranken SD
+rtp://87.141.215.251@232.0.10.218:10000
+#EXTINF:-1 tvg-chno="441" tvg-name="TVA Ostbayern SD" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/36b4c7bc96decd699383f26e32769d35e262d1df.png",TVA Ostbayern SD
+rtp://87.141.215.251@232.0.10.219:10000
+#EXTINF:-1 tvg-chno="450" tvg-name="ALEX Berlin SD" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/029de89eb87aea2d6ff51b225067bab393112d51.png",ALEX Berlin SD
+rtp://87.141.215.251@232.0.10.197:10000
+#EXTINF:-1 tvg-chno="457" tvg-name="rbb fernsehen Brandenburg SD" tvg-id="rbbbra.rbb-online.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/3c5a2a45fa454d43b49eb1a696cafd0a4eeb1c86.png",rbb fernsehen Brandenburg SD
+rtp://87.141.215.251@232.0.10.130:10000
+#EXTINF:-1 tvg-chno="461" tvg-name="RTL Bremen & Niedersachsen SD" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/66b46a8a0a0e401556b93ef948b3e6d35f4983e8.png",RTL Bremen & Niedersachsen SD
+rtp://87.141.215.251@232.0.10.137:10000
+#EXTINF:-1 tvg-chno="462" tvg-name="SAT.1 Niedersachsen und Bremen SD" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/173ffdfde86e3dc169175f29d317d6649adfb36e.png",SAT.1 Niedersachsen und Bremen SD
+rtp://87.141.215.251@232.0.10.152:10000
+#EXTINF:-1 tvg-chno="466" tvg-name="NDR Fernsehen Hamburg SD" tvg-id="ndr.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/d72e120a384a97f269eb891ad135fb4d115decbb.png",NDR Fernsehen Hamburg SD
+rtp://87.141.215.251@232.0.10.105:10000
+#EXTINF:-1 tvg-chno="467" tvg-name="NDR Fernsehen Schleswig-Holstein SD" tvg-id="sh.ndr.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/d72e120a384a97f269eb891ad135fb4d115decbb.png",NDR Fernsehen Schleswig-Holstein SD
+rtp://87.141.215.251@232.0.10.107:10000
+#EXTINF:-1 tvg-chno="468" tvg-name="RTL Hamburg & Schleswig-Holstein SD" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/66b46a8a0a0e401556b93ef948b3e6d35f4983e8.png",RTL Hamburg & Schleswig-Holstein SD
+rtp://87.141.215.251@232.0.10.139:10000
+#EXTINF:-1 tvg-chno="469" tvg-name="SAT.1 Hamburg und Schleswig-Holstein SD" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/cedf8f2e1731769ec9d0beb9b90261c695553c99.png",SAT.1 Hamburg und Schleswig-Holstein SD
+rtp://87.141.215.251@232.0.10.151:10000
+#EXTINF:-1 tvg-chno="473" tvg-name="Rhein-Main TV SD" tvg-id="rheinmaintv.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/1115ac42b2d7f05d6f5a19a27c32824449b73da8.png",Rhein-Main TV SD
+rtp://87.141.215.251@232.0.11.37:10000
+#EXTINF:-1 tvg-chno="474" tvg-name="RTL Hessen SD" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/26e37fcb6e6c643894ac842786c46751d6d00259.png",RTL Hessen SD
+rtp://87.141.215.251@232.0.10.138:10000
+#EXTINF:-1 tvg-chno="476" tvg-name="NDR Fernsehen Mecklenburg-Vorpommern SD" tvg-id="mv.ndr.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/d72e120a384a97f269eb891ad135fb4d115decbb.png",NDR Fernsehen Mecklenburg-Vorpommern SD
+rtp://87.141.215.251@232.0.10.106:10000
+#EXTINF:-1 tvg-chno="493" tvg-name="RTL Nordrhein-Westfalen SD" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/8582a2d3f54d5b7e40fbb9cd0fb86be651ee4fc2.png",RTL Nordrhein-Westfalen SD
+rtp://87.141.215.251@232.0.10.142:10000
+#EXTINF:-1 tvg-chno="494" tvg-name="SAT.1 Nordrhein-Westfalen SD" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/890482e516f4d043b0efb90ff6596ddbe0a3f61a.png",SAT.1 Nordrhein-Westfalen SD
+rtp://87.141.215.251@232.0.10.153:10000
+#EXTINF:-1 tvg-chno="495" tvg-name="Studio 47 SD" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/c8076164bc202b72f7b9acde25986bcfdcb440ac.png",Studio 47 SD
+rtp://87.141.215.251@232.0.11.36:10000
+#EXTINF:-1 tvg-chno="496" tvg-name="WDR Fernsehen Aachen SD" tvg-id="aachen.wdr.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/8784546120200060bc84357fcafd0994d648ee40.png",WDR Fernsehen Aachen SD
+rtp://87.141.215.251@232.0.10.223:10000
+#EXTINF:-1 tvg-chno="497" tvg-name="WDR Fernsehen Bielefeld SD" tvg-id="bielefeld.wdr.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/8784546120200060bc84357fcafd0994d648ee40.png",WDR Fernsehen Bielefeld SD
+rtp://87.141.215.251@232.0.10.224:10000
+#EXTINF:-1 tvg-chno="498" tvg-name="WDR Fernsehen Bonn SD" tvg-id="bonn.wdr.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/8784546120200060bc84357fcafd0994d648ee40.png",WDR Fernsehen Bonn SD
+rtp://87.141.215.251@232.0.10.225:10000
+#EXTINF:-1 tvg-chno="499" tvg-name="WDR Fernsehen Dortmund SD" tvg-id="dortmund.wdr.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/8784546120200060bc84357fcafd0994d648ee40.png",WDR Fernsehen Dortmund SD
+rtp://87.141.215.251@232.0.10.226:10000
+#EXTINF:-1 tvg-chno="500" tvg-name="WDR Fernsehen Duisburg SD" tvg-id="duisburg.wdr.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/8784546120200060bc84357fcafd0994d648ee40.png",WDR Fernsehen Duisburg SD
+rtp://87.141.215.251@232.0.10.227:10000
+#EXTINF:-1 tvg-chno="501" tvg-name="WDR Fernsehen Düsseldorf SD" tvg-id="dusseldorf.wdr.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/8784546120200060bc84357fcafd0994d648ee40.png",WDR Fernsehen Düsseldorf SD
+rtp://87.141.215.251@232.0.10.228:10000
+#EXTINF:-1 tvg-chno="502" tvg-name="WDR Fernsehen Essen SD" tvg-id="essen.wdr.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/8784546120200060bc84357fcafd0994d648ee40.png",WDR Fernsehen Essen SD
+rtp://87.141.215.251@232.0.10.229:10000
+#EXTINF:-1 tvg-chno="503" tvg-name="WDR Fernsehen Münster SD" tvg-id="munster.wdr.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/8784546120200060bc84357fcafd0994d648ee40.png",WDR Fernsehen Münster SD
+rtp://87.141.215.251@232.0.10.230:10000
+#EXTINF:-1 tvg-chno="504" tvg-name="WDR Fernsehen Siegen SD" tvg-id="siegen.wdr.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/8784546120200060bc84357fcafd0994d648ee40.png",WDR Fernsehen Siegen SD
+rtp://87.141.215.251@232.0.10.231:10000
+#EXTINF:-1 tvg-chno="505" tvg-name="WDR Fernsehen Wuppertal SD" tvg-id="wuppertal.wdr.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/8784546120200060bc84357fcafd0994d648ee40.png",WDR Fernsehen Wuppertal SD
+rtp://87.141.215.251@232.0.10.232:10000
+#EXTINF:-1 tvg-chno="512" tvg-name="OK4 SD" tvg-id="ok4.tv" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/e315a9db459bac39d4da9afe51d562dfe79aaa26.png",OK4 SD
+rtp://87.141.215.251@232.0.11.41:10000
+#EXTINF:-1 tvg-chno="513" tvg-name="OK54 Trier SD" tvg-id="ok54.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/a30adbed633d59fea64013acc4c468cde28315d0.png",OK54 Trier SD
+rtp://87.141.215.251@232.0.11.31:10000
+#EXTINF:-1 tvg-chno="515" tvg-name="OK Weinstraße SD" tvg-id="ok-weinstrasse.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/40ecd27802a1278e73a56d95d6031744ff5c17c5.png",OK Weinstraße SD
+rtp://87.141.215.251@232.0.11.40:10000
+#EXTINF:-1 tvg-chno="517" tvg-name="OK-TV Ludwigshafen SD" tvg-id="oktv-lu.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/5772254806e510da2c5d25ae74b9dfb4d1334eda.png",OK-TV Ludwigshafen SD
+rtp://87.141.215.251@232.0.11.32:10000
+#EXTINF:-1 tvg-chno="518" tvg-name="OK:TV Mainz SD" tvg-id="oktv-mainz.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/45bf8230af2cd7bbf50780c6b52d5d09b5245125.png",OK:TV Mainz SD
+rtp://87.141.215.251@232.0.11.39:10000
+#EXTINF:-1 tvg-chno="522" tvg-name="SAT.1 Rheinland-Pfalz und Hessen SD" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/942884ff8261358eab7e2916cf2e7f15a2393e4a.png",SAT.1 Rheinland-Pfalz und Hessen SD
+rtp://87.141.215.251@232.0.10.154:10000
+#EXTINF:-1 tvg-chno="535" tvg-name="Chemnitz Fernsehen SD" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/5375f324b7ffcb882061a48771888ef0f6c74e73.png",Chemnitz Fernsehen SD
+rtp://87.141.215.251@232.0.11.33:10000
+#EXTINF:-1 tvg-chno="536" tvg-name="Dresden Fernsehen SD" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/5498e02c677ec9cb9896e8cd55d0e6a63fa8910f.png",Dresden Fernsehen SD
+rtp://87.141.215.251@232.0.11.34:10000
+#EXTINF:-1 tvg-chno="542" tvg-name="Leipzig Fernsehen SD" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/8755b09d6bda3c93b0f2d453cedd0a01372982d3.png",Leipzig Fernsehen SD
+rtp://87.141.215.251@232.0.11.42:10000
+#EXTINF:-1 tvg-chno="564" tvg-name="MDR-Fernsehen Sachsen-Anhalt SD" tvg-id="s-anhalt.mdr.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/8e11c0abde6c90a68507070c73b443401a24fcff.png",MDR-Fernsehen Sachsen-Anhalt SD
+rtp://87.141.215.251@232.0.10.94:10000
+#EXTINF:-1 tvg-chno="587" tvg-name="MDR-Fernsehen Thüringen SD" tvg-id="mdr.daserste.de" group-title="MagentaTV" tvg-logo="http://ngiss.t-online.de/cm1s/media/8e11c0abde6c90a68507070c73b443401a24fcff.png",MDR-Fernsehen Thüringen SD
+rtp://87.141.215.251@232.0.10.95:10000
